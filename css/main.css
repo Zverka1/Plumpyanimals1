@@ -34,10 +34,10 @@ body {
   left: 1057px;
   overflow: hidden;
 }
-.v37_14 {
+.Plumpy_Animals {
   width: 817px;
   height: 116px;
-  background: url("../images/v37_14.png");
+  background: url("../images/Plumpy_Animals.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -47,10 +47,10 @@ body {
   left: 215px;
   overflow: hidden;
 }
-.v39_3 {
+.Plumpy_Polar_Bears_NFT {
   width: 817px;
   height: 77px;
-  background: url("../images/v39_3.png");
+  background: url("../images/Plumpy_Polar_Bears_NFT.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -72,10 +72,10 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v39_6 {
+.Gif {
   width: 357px;
   height: 357px;
-  background: url("../images/v39_6.png");
+  background: url("../images/Gif.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -85,10 +85,10 @@ body {
   left: 675px;
   overflow: hidden;
 }
-.v40_7 {
+.Gif_Boarder {
   width: 357px;
   height: 357px;
-  background: url("../images/v40_7.png");
+  background: url("../images/Gif_Boarder.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -98,10 +98,10 @@ body {
   left: 675px;
   overflow: hidden;
 }
-.v45_25 {
+.White_Bear {
   width: 357px;
   height: 357px;
-  background: url("../images/v45_25.png");
+  background: url("../images/White_Bear.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -123,10 +123,10 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v47_29 {
+.The {
   width: 125px;
   height: 81px;
-  background: url("../images/v47_29.png");
+  background: url("../images/The.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -136,10 +136,10 @@ body {
   left: 285px;
   overflow: hidden;
 }
-.v47_28 {
+.Project {
   width: 255px;
   height: 81px;
-  background: url("../images/v47_28.png");
+  background: url("../images/Project.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -149,10 +149,10 @@ body {
   left: 215px;
   overflow: hidden;
 }
-.v40_9 {
+.About_us {
   width: 448px;
   height: 108px;
-  background: url("../images/v40_9.png");
+  background: url("../images/About_us.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -162,10 +162,10 @@ body {
   left: 429px;
   overflow: hidden;
 }
-.v42_12 {
+.Profile3 {
   width: 238px;
   height: 238px;
-  background: url("../images/v42_12.png");
+  background: url("../images/Profile3.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -175,10 +175,10 @@ body {
   left: 810px;
   overflow: hidden;
 }
-.v42_11 {
+.Profile2 {
   width: 238px;
   height: 238px;
-  background: url("../images/v42_11.png");
+  background: url("../images/Profile2.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -188,10 +188,10 @@ body {
   left: 514px;
   overflow: hidden;
 }
-.v42_10 {
+.Profile1 {
   width: 240px;
   height: 238px;
-  background: url("../images/v42_10.png");
+  background: url("../images/Profile1.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -202,7 +202,7 @@ body {
   overflow: hidden;
 }
 .v42_19 {
-  width: 127px;
+  width: 240px;
   color: rgba(255,255,255,1);
   position: absolute;
   top: 1751px;
@@ -211,22 +211,22 @@ body {
   font-weight: Regular;
   font-size: 36px;
   opacity: 1;
-  text-align: left;
+  text-align: center;
 }
 .v42_18 {
-  width: 239px;
+  width: 240px;
   color: rgba(255,255,255,1);
   position: absolute;
   top: 1751px;
-  left: 512px;
+  left: 513px;
   font-family: Aldrich;
   font-weight: Regular;
   font-size: 36px;
   opacity: 1;
-  text-align: left;
+  text-align: center;
 }
 .v42_13 {
-  width: 241px;
+  width: 240px;
   color: rgba(255,255,255,1);
   position: absolute;
   top: 1751px;
@@ -235,10 +235,10 @@ body {
   font-weight: Regular;
   font-size: 36px;
   opacity: 1;
-  text-align: left;
+  text-align: center;
 }
 .v42_17 {
-  width: 244px;
+  width: 240px;
   color: rgba(171,209,198,1);
   position: absolute;
   top: 1799px;
@@ -247,10 +247,10 @@ body {
   font-weight: Regular;
   font-size: 24px;
   opacity: 1;
-  text-align: left;
+  text-align: center;
 }
 .v48_32 {
-  width: 280px;
+  width: 240px;
   color: rgba(171,209,198,1);
   position: absolute;
   top: 1800px;
@@ -259,24 +259,24 @@ body {
   font-weight: Regular;
   font-size: 24px;
   opacity: 1;
-  text-align: left;
+  text-align: center;
 }
 .v48_30 {
-  width: 244px;
+  width: 240px;
   color: rgba(171,209,198,1);
   position: absolute;
   top: 1800px;
-  left: 212px;
+  left: 215px;
   font-family: Aldrich;
   font-weight: Regular;
   font-size: 24px;
   opacity: 1;
-  text-align: left;
+  text-align: center;
 }
-.v43_23 {
+.Roadmap {
   width: 476px;
   height: 107px;
-  background: url("../images/v43_23.png");
+  background: url("../images/Roadmap.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -286,7 +286,7 @@ body {
   left: 386px;
   overflow: hidden;
 }
-.v48_33 {
+.Private {
   width: 833px;
   color: rgba(171,209,198,1);
   position: absolute;
@@ -298,10 +298,58 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v48_35 {
+.Public {
+  width: 833px;
+  color: rgba(171,209,198,1);
+  position: absolute;
+  top: 2192px;
+  left: 215px;
+  font-family: Aldrich;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
+.Art {
+  width: 833px;
+  color: rgba(171,209,198,1);
+  position: absolute;
+  top: 2252px;
+  left: 215px;
+  font-family: Aldrich;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
+.Drops {
+  width: 833px;
+  color: rgba(171,209,198,1);
+  position: absolute;
+  top: 2312px;
+  left: 215px;
+  font-family: Aldrich;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
+.Game {
+  width: 833px;
+  color: rgba(171,209,198,1);
+  position: absolute;
+  top: 2372px;
+  left: 215px;
+  font-family: Aldrich;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
+.FAQs {
   width: 349px;
   height: 154px;
-  background: url("../images/v48_35.png");
+  background: url("../images/FAQs.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -503,7 +551,7 @@ body {
   overflow: hidden;
 }
 .v117_217 {
-  width: 778px;
+  width: 818px;
   height: 45px;
   background: url("../images/v117_217.png");
   background-repeat: no-repeat;
@@ -518,7 +566,7 @@ body {
   overflow: hidden;
 }
 .v117_218 {
-  width: 778px;
+  width: 818px;
   color: rgba(0,30,29,1);
   position: absolute;
   top: 8px;
@@ -546,7 +594,7 @@ body {
   overflow: hidden;
 }
 .v117_242 {
-  width: 825px;
+  width: 818px;
   height: 45px;
   background: url("../images/v117_242.png");
   background-repeat: no-repeat;
@@ -608,10 +656,10 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v132_4 {
+.Instagram {
   width: 50px;
   height: 50px;
-  background: url("../images/v132_4.png");
+  background: url("../images/Instagram.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -621,10 +669,10 @@ body {
   left: 982px;
   overflow: hidden;
 }
-.v132_5 {
+.Discord {
   width: 88px;
   height: 50px;
-  background: url("../images/v132_5.png");
+  background: url("../images/Discord.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -698,10 +746,10 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v155_16 {
+.Opensea {
   width: 50px;
   height: 50px;
-  background: url("../images/v155_16.png");
+  background: url("../images/Opensea.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -885,16 +933,16 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v205_909 {
+.Twitter {
   width: 86px;
   height: 64px;
-  background: url("../images/v205_909.png");
+  background: url("../images/Twitter.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
   top: 237px;
-  left: 706px;
+  left: 710px;
   overflow: hidden;
 }
